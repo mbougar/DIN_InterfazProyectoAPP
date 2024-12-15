@@ -103,7 +103,7 @@ fun SearchAppBar(
             },
             placeholder = {
                 Text(
-                    text = "Search here...",
+                    text = "Buscar...",
                     style = MaterialTheme.typography.bodyLarge,
                     color = MaterialTheme.colorScheme.onPrimary.copy(alpha = ContentAlpha.medium)
                 )
